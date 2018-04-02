@@ -16,7 +16,7 @@
       <module name="mywebmagic-core" target="1.6" />
       <module name="mywebmagic-extension" target="6" />
       <module name="mywebmagic-parent" target="1.5" />
-      <module name="mywebmagic-sample" target="1.5" />
+      <module name="mywebmagic-sample" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>

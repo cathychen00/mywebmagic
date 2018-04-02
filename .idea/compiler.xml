@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mywebmagic-core" />
         <module name="mywebmagic-extension" />
-        <module name="mywebmagic-sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
